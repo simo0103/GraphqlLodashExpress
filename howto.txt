@@ -1,0 +1,8 @@
+> $ npm init in folder
+> $ npm install express
+> installare typescript - modificare il tsconfig per non fargli sottolineare il linguaggio di node ("types" ['express', 'node'])
+> $ npm install --save @types/express
+> installare nodemon $ npm install -g nodemon 
+> installare graphql $ npm install graphql express-graphql
+> creare const graphHTTP
+> installare lodash $npm install lodash
